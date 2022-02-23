@@ -11,4 +11,3 @@ nameCity = input("Qual o nome da Cidade que você cresceu?\n")
 namePet = input("Qual o nome de seu animal de estimação?\n")
 
 print(f"O nome de sua Banda será {nameCity} {namePet}")
-
