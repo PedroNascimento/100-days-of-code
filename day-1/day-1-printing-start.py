@@ -7,7 +7,7 @@
     3) Imprimir o nome da Banda usando as duas informações acima
 """
 print("Bem vindos ao gerador de nomes de Bandas")
-nameCity = input("Qual o nome da Cidade que você cresceu?\n")
-namePet = input("Qual o nome de seu animal de estimação?\n")
+nameCity = input("Qual o nome da Cidade que você cresceu? ")
+namePet = input("Qual o nome de seu animal de estimação? ")
 
 print(f"O nome de sua Banda será {nameCity} {namePet}")
